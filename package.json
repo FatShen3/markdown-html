@@ -1,0 +1,41 @@
+{
+  "name": "markdown-html",
+  "version": "0.1.0",
+  "description": "a cli tool to transform markdown to html",
+  "main": "./src/index.js",
+  "bin": {
+    "md2html": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatShen3/markdown-html.git"
+  },
+  "keywords": [
+    "markdown",
+    "md",
+    "html",
+    "markdown-html"
+  ],
+  "author": "fatshen3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FatShen3/markdown-html/issues"
+  },
+  "homepage": "https://github.com/FatShen3/markdown-html#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "base64-img": "^1.0.4",
+    "commander": "^5.1.0",
+    "fs-extra": "^9.0.0",
+    "highlight.js": "^10.0.3",
+    "markdown-it": "^11.0.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.1.0",
+    "eslint-config-alloy": "^3.7.2"
+  }
+}
