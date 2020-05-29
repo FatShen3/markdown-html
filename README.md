@@ -1,4 +1,4 @@
-## markdown-html
+## markdown-html-cli
 
 a cli tool to transform markdown to html
 
@@ -11,7 +11,7 @@ a cli tool to transform markdown to html
 ## install
 
 ```bash
-npm i -g markdown-html
+npm i -g markdown-html-cli
 ```
 
 ## usage

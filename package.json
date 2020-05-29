@@ -1,5 +1,5 @@
 {
-  "name": "markdown-html",
+  "name": "markdown-html-cli",
   "version": "0.1.0",
   "description": "a cli tool to transform markdown to html",
   "main": "./src/index.js",
@@ -17,7 +17,8 @@
     "markdown",
     "md",
     "html",
-    "markdown-html"
+    "markdown-html",
+    "markdown html"
   ],
   "author": "fatshen3",
   "license": "MIT",
